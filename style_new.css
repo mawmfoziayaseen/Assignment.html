@@ -1,0 +1,81 @@
+#parent{
+    width: 100%;
+    height: 200px;
+    
+  
+}
+#child1{
+    width: 70%;
+
+    float: left;
+}
+h1{
+    text-align: center;
+}
+p{
+    font-size: 22px;
+}
+a{
+    font-size: 25px;
+}
+#child2{
+    width: 30%;
+    
+    float: left;
+    text-align: left;
+
+}
+.parent2{
+    width: 100%;
+    height: 500px;
+
+   float: left;
+} 
+#img1{
+    width: 30%;
+    background-size: cover;
+    float: left;
+    height: 500px;
+   
+}
+
+#para{
+ width: 40%;
+ float: left;
+ height: 800px;
+    
+}
+#img2{
+   width: 30%;
+   float: left;
+   background-size: cover;
+}
+.list{
+    width: 100%;
+    float: left;
+    margin-top: 1px;
+    font-size: larger;
+    
+
+}
+.A{
+    width: 33%;
+    float: left;
+}
+.B{
+    width: 33%;
+    float: left;
+}
+.C{
+    width: 33%;
+    float: left;
+}
+.D{
+    width: 100%;
+    height: 400px;
+    margin: 2px;
+    padding: 0%;
+}
+form{
+    text-align: center;
+}
